@@ -24,4 +24,5 @@ const webpFiles = [
   "f297e898-c813-481d-936e-9102f2e1a25e.webp",
   "f6ffe774-31a4-4c39-b9d5-482863f18d81.webp",
   "fcbc469c-dbab-4222-a5d9-1915dbf6e8ce.webp",
+  "spartan_hoplite_5483ae52-cc55-4e0a-985a-7e36f71e365b.webp",
 ];
