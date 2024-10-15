@@ -1,7 +1,3 @@
-Here’s a cleaner version of the `README.md`:
-
-### `README.md`
-
 # WebP Image Gallery
 
 This project is a simple **WebP image gallery** hosted on **GitHub Pages**. It dynamically loads `.webp` images from the `assets` directory using **Bootstrap** and **JavaScript**.
