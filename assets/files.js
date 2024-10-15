@@ -1,6 +1,4 @@
 const webpFiles = [
-  "0297e898-c813-481d-936e-9102f2e1a25e.webp",
-  "06ffe774-31a4-4c39-b9d5-482863f18d81.webp",
   "070bc352-fb42-47b6-a181-c5bbb94b919e.webp",
   "1392b560-0f37-4b6d-ae39-dd9e8e810a14.webp",
   "1f31edd6-b6a5-473f-a9ed-a14d267f742c.webp",
@@ -19,5 +17,7 @@ const webpFiles = [
   "dd29d915-06b7-4508-b2c8-9e3e2d300f9f.webp",
   "e9d1bd0f-c141-418c-a46b-120b03d66ae0.webp",
   "ea1243da-953c-4e71-9ce7-cfb700b9d643.webp",
+  "f297e898-c813-481d-936e-9102f2e1a25e.webp",
+  "f6ffe774-31a4-4c39-b9d5-482863f18d81.webp",
   "fcbc469c-dbab-4222-a5d9-1915dbf6e8ce.webp",
 ];

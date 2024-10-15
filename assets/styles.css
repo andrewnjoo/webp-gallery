@@ -1,0 +1,16 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.gallery img {
+  max-width: 200px;
+  border-radius: 8px;
+  transition: transform 0.3s;
+  object-fit: cover;
+}
+.gallery img:hover {
+  transform: scale(1.1);
+}
