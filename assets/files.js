@@ -7,6 +7,7 @@ const webpFiles = [
   "3e67fb8b-1717-4a48-8e4b-595703b1b952.webp",
   "4d516cf7-9855-432e-9e92-00e30ddbee92.webp",
   "4fda6504-9b3a-49ef-a535-3c2c963225f7.webp",
+  "5826141d-a497-4ed9-9344-3ad465a95a04.webp",
   "5abcf6ff-b3b1-47ec-bad1-2176a26dc9ba.webp",
   "852aafb8-60a3-40ee-aed2-71c8b5e7a7f4.webp",
   "950e65cf-bf78-435b-a831-99e64406ed5b.webp",
