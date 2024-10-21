@@ -2,8 +2,6 @@
 
 This project is a simple **WebP image gallery** hosted on **GitHub Pages**. It dynamically loads `.webp` images from the `assets` directory using **Bootstrap** and **JavaScript**.
 
-I like history.
-
 ## Usage
 
 ### 1. Generate `files.js`

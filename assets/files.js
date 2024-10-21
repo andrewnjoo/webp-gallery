@@ -29,6 +29,8 @@ const webpFiles = [
 
 const roastFiles = [
   "roast-images/016d0027-212f-490a-ab2e-013ea3970976.webp",
+  "roast-images/041f0435-be8d-4d12-a3d5-e242230f7787.webp",
+  "roast-images/09fff769-f2fc-4ceb-a885-6a35889a440e.webp",
   "roast-images/0a524ac6-67e8-465f-85d1-b54ed404e37d.webp",
   "roast-images/0d34e809-cae6-4f7b-81d4-75dbd21f9520.webp",
   "roast-images/184714f0-b908-473b-b00f-2c1e88be9877.webp",
@@ -46,11 +48,13 @@ const roastFiles = [
   "roast-images/a566e4dd-7559-4132-ad07-1c1d2272b6e5.webp",
   "roast-images/a6bbf6c2-e8ed-4713-8016-ceb2acc8051d.webp",
   "roast-images/ba7f519b-3a8d-4b7b-b1f7-41a6854ca42b.webp",
+  "roast-images/bc7eb2f6-0e94-4324-a166-11da4f3820fe.webp",
   "roast-images/bf1d1961-fbbd-429d-bd62-4272113fa26f.webp",
   "roast-images/bf7a1ef8-9494-4ba9-ad0e-b6878d1794df.webp",
   "roast-images/bf90f7e3-b19f-4ee3-b3d2-05c8fbc7947e.webp",
   "roast-images/c9a62f72-68d1-423b-b157-c5d6a2cef0fd.webp",
   "roast-images/ce5f82c5-a424-4f70-b09e-511e6afbcdec.webp",
+  "roast-images/de09da53-1515-4725-8ec5-60ed62052d49.webp",
   "roast-images/df9b05db-2f9f-41d1-92c5-36eba26374d6.webp",
   "roast-images/e32999d6-1dc4-47ff-9501-8d231d32297e.webp",
   "roast-images/f3778755-7053-4c6b-bbfa-19c8057e2a2c.webp",
